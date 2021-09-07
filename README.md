@@ -1,6 +1,6 @@
 # idGenerator
 
-- app that generates a list of random ids and saves,
+- app that generates a list of random IDs,
 - the list is saved in the file people.json
 
-## to genrate a new list -> `node app.js`
+## to generate a new list -> `node app.js`
